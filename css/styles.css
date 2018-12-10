@@ -1,0 +1,30 @@
+nav>ul>li>a {
+    padding: 18px;
+    margin-right:0;
+    text-transform: uppercase;
+    text-decoration: underline;
+    display: block;
+    }
+    nav>ul>li{
+      display:inline-block;
+    }
+    nav{
+      text-align:right;
+    }
+    li>a:hover{
+      background-color:red;
+    }
+    h1{
+        color:#9932CC;
+        font-family:'lucida calligraphy';
+        text-align:center;
+        font-style:italic;
+        background-color:white;
+      }
+      body{
+        background-color:grey;
+        font-size:x-large;
+        margin-left:30px;
+        margin-right:30px;
+        padding:3px;
+      }
