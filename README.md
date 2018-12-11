@@ -6,7 +6,7 @@ Portfolio-landing-page is a webpage  that describe UWINEZA FLORENTINE;It contain
 ## Project setup instructions
 To start using this project use the following command:
 * git clone on https://github.com/uwineza/portfolio-Landing-Page.git
-https://uwineza.github.io/portfolio-Landing-Page/
+*https://uwineza.github.io/portfolio-Landing-Page/
 This is my hosted link
 * cd portfolio-Landing-Page
 * code .
