@@ -1,6 +1,6 @@
 # Portfolio-Landing-Page
 ####  Author
-Uwineza florentine
+Uwineza Florentine
 ## Description
 Portfolio-landing-page is a webpage  that describe UWINEZA FLORENTINE;It contains the lists of projects that I have done;and also it contains all information about Me such as My education background;my job experience; My hobbies and skills. It contain also all my contacts for any suggestion or information you want to give me please send it to these contacts.
 ## Project setup instructions
